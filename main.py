@@ -66,4 +66,4 @@ while True:
                              password=my_password)
             connection.sendmail(to_addrs=my_email,
                                 from_addr=my_email,
-                                text="Subject: ISS overhead\n\n ISS is above Berlin, get out and look")
+                                msg="Subject: ISS overhead\n\n ISS is above Berlin, get out and look")
