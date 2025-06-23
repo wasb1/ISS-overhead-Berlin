@@ -8,8 +8,8 @@ tz = pytz.timezone('Europe/Berlin')
 berlin_now_hour = dt.datetime.now(tz).hour
 
 
-my_email = "blatan334@gmail.com"
-my_password = "frsmxbpbprgmqwgm"
+my_email = ""
+my_password = ""
 LATITUDE_BERLIN = 52.520008
 LONGITUDE_BERLIN = 13.404954
 
